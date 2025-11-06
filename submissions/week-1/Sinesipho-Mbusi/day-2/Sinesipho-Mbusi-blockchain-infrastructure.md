@@ -105,6 +105,7 @@ Permissionless blockchains (e.g., Bitcoin, Ethereum, Solana) rely on open valida
 ---
 
 ## 6. Twitter Thread (7+ Tweets)
+[Thread](https://x.com/symbusi/status/1986525259193835537)
 
 **1️⃣** Week 1 Day 2: exploring blockchain infrastructure, DLTs, NFTs & tokens. Here's the condensed version 👇  
 **2️⃣** Bitcoin — PoW, miners, full nodes. Secure but energy-heavy. True decentralization OG.  
